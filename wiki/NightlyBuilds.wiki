@@ -1,5 +1,7 @@
 #summary Instructions on how to run the latest nightly developer build
 #labels Featured
+=[https://wiki.mtasa.com/wiki/Nightly_Builds This information is obsolete, please refer to the wiki page]=
+The below information has been retained for historical purposes.
 <table>
 <tr>
 <td width="48%" valign="top" cellspacing=10>
