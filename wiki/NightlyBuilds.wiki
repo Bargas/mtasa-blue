@@ -1,6 +1,6 @@
 #summary Instructions on how to run the latest nightly developer build
 #labels Featured
-=[https://wiki.mtasa.com/wiki/Nightly_Builds This information may be obsolete, please refer to the wiki page]=
+=[https://wiki.mtasa.com/wiki/Nightly_Builds This information may be obsolete, please refer to the wiki]=
 The below information has been retained for historical purposes.
 <table>
 <tr>
