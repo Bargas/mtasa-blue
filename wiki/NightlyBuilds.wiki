@@ -2,6 +2,7 @@
 #labels Featured
 =[https://wiki.mtasa.com/wiki/Nightly_Builds This information may be obsolete, please refer to the wiki]=
 The below information has been retained for historical purposes.
+----
 <table>
 <tr>
 <td width="48%" valign="top" cellspacing=10>
